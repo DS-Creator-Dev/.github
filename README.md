@@ -6,7 +6,7 @@ The DS Creator Devs is a team of developers working on a game engine known as DS
     <img src="https://avatars.githubusercontent.com/u/83834271?s=96&v=4" />
     <p>Kenyon Bowers</p>
   </a>
-  <a>
+  <a href="https://github.com/NotImplementedLife">
     <img src="https://avatars.githubusercontent.com/u/70803115?s=96&v=4" />
     <p>NotImpLife</p>
   </a>
